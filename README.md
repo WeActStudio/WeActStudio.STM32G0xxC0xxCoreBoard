@@ -6,9 +6,13 @@ Freq:64Mhz Max
 RAM:8KB,ROM:32KB  
 **STM32G031F8P6**  
 Freq:64Mhz Max  
-RAM:8KB,ROM:64KB 
-**STM32C0...**
-TBD   
+RAM:8KB,ROM:64KB  
+**STM32G031F6P6**  
+Freq:64Mhz Max  
+RAM:8KB,ROM:32KB  
+**STM32C011F6P6**  
+Freq:64Mhz Max  
+RAM:6KB,ROM:32KB  
 
 ST Official Website www.st.com
 
