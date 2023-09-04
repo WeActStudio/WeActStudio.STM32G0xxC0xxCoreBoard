@@ -11,7 +11,7 @@ RAM:8KB,ROM:64KB
 Freq:64Mhz Max  
 RAM:8KB,ROM:32KB  
 **STM32C011F6P6**  
-Freq:64Mhz Max  
+Freq:48Mhz Max  
 RAM:6KB,ROM:32KB   
 
 ST 官方网站 Website www.st.com

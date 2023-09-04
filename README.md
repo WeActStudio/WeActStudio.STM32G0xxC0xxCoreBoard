@@ -11,7 +11,7 @@ RAM:8KB,ROM:64KB
 Freq:64Mhz Max  
 RAM:8KB,ROM:32KB  
 **STM32C011F6P6**  
-Freq:64Mhz Max  
+Freq:48Mhz Max  
 RAM:6KB,ROM:32KB  
 
 ST Official Website www.st.com
@@ -27,7 +27,7 @@ ST Official Website www.st.com
 - WeAct Studio Official Link
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActTC
+- github: github.com/WeActStudio
 - gitee: gitee.com/WeAct-TC
 - blog: www.weact-tc.cn
 ---------------------------------------*/
